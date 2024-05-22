@@ -11,11 +11,11 @@
 - Kişiselleştirilebilir Tema: Kendi stilinize ve markanıza uygun renkler, yazı tipleri ve düzenler ile özelleştirilebilir.
 - İletişim Formu: Ziyaretçilerin sizinle kolayca iletişime geçebilmesi için entegre iletişim formu.
 
-#Katkıda Bulunma
+# Katkıda Bulunma
 
 - Katkıda bulunmak isterseniz, lütfen önce katkı rehberimizi okuyun. Hataları bildirmek, özellik önerileri sunmak veya doğrudan bir pull request (çekme isteği) oluşturmak için GitHub üzerindeki sorunlar (issues) bölümünü kullanabilirsiniz.
 
-#Lisans
+# Lisans
 
 - Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
 
