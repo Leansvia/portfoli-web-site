@@ -1,21 +1,10 @@
-MIT License
 
-Copyright (c) 2024 Leansvia
+MIT Lisansı
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright © 2024 Leans
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+İşbu belge ile, bu yazılımın ve ilgili dokümantasyon dosyalarının (bundan böyle "Yazılım" olarak anılacaktır) bir kopyasını edinen herhangi bir kişiye, Yazılımı sınırlama olmaksızın kullanmak için ücretsiz izin verilmektedir. Bu izin, Yazılımı kullanma, kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisans verme ve/veya Yazılımın kopyalarını satma haklarını içermektedir ve şu şartlara tabidir:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılımın tüm kopyalarına veya önemli bölümlerine dahil edilecektir.
+
+YAZILIM "OLDUĞU GİBİ", AÇIK VEYA ZIMNİ HERHANGİ BİR GARANTİ OLMAKSIZIN, PAZARLANABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DE DAHİL OLMAK ÜZERE, SAĞLANMAKTADIR. HİÇBİR DURUMDA YAZARLAR VE TELİF HAKKI SAHİPLERİ, YAZILIMDAN VEYA YAZILIMIN KULLANIMINDAN YA DA DİĞER İŞLEMLERDEKİ KULLANIMINDAN KAYNAKLANAN HERHANGİ BİR TALEP, ZARAR VEYA DİĞER SORUMLULUKLARDAN SORUMLU TUTULAMAZ.
